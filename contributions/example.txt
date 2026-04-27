@@ -3,5 +3,4 @@
 example.org
 www.example.com
 example.net
-example.org
 www.example.edu
